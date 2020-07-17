@@ -12,3 +12,4 @@ ci-pr:
 
 ci-build:
 	mvn clean package docker:build -DskipTests
+	

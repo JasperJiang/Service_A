@@ -1,0 +1,8 @@
+name: 'service-a'
+trunkBranch: 'master'
+gitCredentialsId: 'github-token'
+gitRepositoryOwner: 'JasperJiang/Service_A'
+gitRepositorySchema: 'https'
+gitRepositoryHost: 'github.com'
+dockerRegistry: ''
+dockerRegistryCredentialsId: ''

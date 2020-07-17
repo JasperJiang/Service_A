@@ -1,6 +1,6 @@
 name: 'service-a'
 trunkBranch: 'master'
-gitCredentialsId: 'github-token'
+gitCredentialsId: 'jasperjiang'
 gitRepositoryOwner: 'JasperJiang/Service_A'
 gitRepositorySchema: 'https'
 gitRepositoryHost: 'github.com'
